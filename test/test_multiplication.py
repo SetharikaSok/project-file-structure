@@ -1,4 +1,5 @@
-import multiplication
+import pytest
+import calculation.multiplication as multiplication
 
 def test_multiplication():
     # Assert
